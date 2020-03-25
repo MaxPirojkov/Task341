@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task341</string>
+    <string name="text">Тяжело в учении, легко в бою</string>
+    <string-array name="themeColor">
+        <item>"черный"</item>
+        <item>"зеленый"</item>
+        <item>"синий"</item>
+    </string-array>
+</resources>
